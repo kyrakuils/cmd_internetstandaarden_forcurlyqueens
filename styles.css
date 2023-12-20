@@ -352,10 +352,13 @@ body {
 
 /* tips */
 
+.middenstuk{
+    padding: 8em;
+}
+
     .tips {
         text-align: center;
-        margin-top: 70px;
-        margin-bottom: 30px;
+
     }
 
     .titeltips {
@@ -365,57 +368,47 @@ body {
 
     .tipsintro {
         text-align: center;
-        margin-bottom: 40px;
-        margin-top: 20px;
+
     }
 
     .faves1 {
         text-align: center;
-        margin-left:900px;
-        margin-top: 10px;
+
         font-weight: bold;
     }
 
     .faves2 { 
         text-align: center;
-        margin-left:900px;
-        margin-top: 10px;
+
     }
 
    .haarproducten {
         width: 250px;
-        margin-left:1100px;
-        margin-top: 10px;
+
    }
 
     .tip1,.tip2,.tip3,.tip4,.tip5 {
         font-weight: bold;
-        margin-top: 20px;
-        margin-left: 150px;
+
     }
 
-    .teksttips {
-        margin-left: 150px;
-    }
+
 
     .reminder { 
         font-weight: bold;
         text-decoration:underline;
-        margin-top: 40px;
-        margin-bottom: 20px;
-        margin-left: 150px;
+ 
     }
 
     .teksttipseinde {
         text-align: left;
-        margin-left: 150px;
+
     }
     
     
     .hashtagtips {
         font-weight: bold;
-        margin-top: 10px;
-        margin-left: 150px;
+
     }
 
 
