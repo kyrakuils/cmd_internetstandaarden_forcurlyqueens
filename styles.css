@@ -352,7 +352,7 @@ body {
 
 /* tips */
 
-.middenstuk{
+.middenstuk {
     padding: 8em;
 }
 
@@ -389,26 +389,21 @@ body {
 
     .tip1,.tip2,.tip3,.tip4,.tip5 {
         font-weight: bold;
-
     }
-
-
 
     .reminder { 
         font-weight: bold;
         text-decoration:underline;
- 
+
     }
 
     .teksttipseinde {
         text-align: left;
-
     }
     
     
     .hashtagtips {
         font-weight: bold;
-
     }
 
 
